@@ -1,0 +1,6 @@
+.env
+.aws
+/secrets
+.terraform.lock.hcl
+.terraform
+.idea
